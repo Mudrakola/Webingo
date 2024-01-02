@@ -1,0 +1,44 @@
+.slider-container-webingo{
+    display: flex;
+    align-items: center;
+}
+.carousal-image{
+    height: 190px;
+}
+.domain-name{
+    font-family: sans-serif;
+    font-size: 25px;
+    color: #ffffff;
+    font-weight: bold;
+    line-height: 33px;
+    padding-top: 10px;
+}
+
+.carousal-item-img {
+    background-color: blueviolet;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    width: 250px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.pink{
+    background-color: hsl(318, 61%, 56%);
+}
+.blue{
+    background-color: #7a1be7;
+}
+
+.light-green{
+    background-color: #88c0a1;
+}
+.violet{
+    background-color: #c615d6;
+}
+
+.yellow{
+    background-color: #93c23b;
+}

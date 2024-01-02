@@ -1,0 +1,28 @@
+.header-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.header-list-container{
+    list-style-type: none;
+    padding-left: 0px;
+    display: flex;
+    align-items: center;
+}
+.webingo-logo{
+    height: 90px;
+}
+.header-list-item{
+    font-family: sans-serif;
+    font-size: 19px;
+    color: #313979 ;
+    margin-right: 15px;
+    font-weight: bold;
+}
+.call-img{
+    height: 50px;
+}
